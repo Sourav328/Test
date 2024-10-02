@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tech4\\OneDrive\\Desktop\\Test\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E39CFA-FBAD-44DD-B7F7-6C9A0A4857C7}|Test.vcxproj|C:\\Users\\tech4\\OneDrive\\Desktop\\Test\\Test\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5E39CFA-FBAD-44DD-B7F7-6C9A0A4857C7}|Test.vcxproj|solutionrelative:Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "C:\\Users\\tech4\\OneDrive\\Desktop\\Test\\Test\\Test.cpp",
+              "RelativeDocumentMoniker": "Test.cpp",
+              "ToolTip": "C:\\Users\\tech4\\OneDrive\\Desktop\\Test\\Test\\Test.cpp",
+              "RelativeToolTip": "Test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T16:04:48.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
